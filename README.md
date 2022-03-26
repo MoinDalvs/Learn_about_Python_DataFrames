@@ -3,7 +3,7 @@
 ### Relative path to import Files
 ### Create a DataFrame
 + Read from ClipBoard
-+ b.Read from .csv Files
++ Read from .csv Files
 + Selecting Data
 + Droping a Row or a Column
 ### Summary Statistics
